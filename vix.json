@@ -1,14 +1,18 @@
 {
   "authors": [
     {
-      "github": "softadastra",
-      "name": "Softadastra"
+      "github": "kordexjs",
+      "name": "KordexJS"
+    },
+    {
+      "github": "GaspardKirira",
+      "name": "Gaspard Kirira"
     }
   ],
   "deps": [
     {
-      "id": "softadastra/kordex-bindings",
-      "version": "0.2.0"
+      "id": "kordexjs/bindings",
+      "version": "0.3.1"
     }
   ],
   "description": "Standard native modules for Kordex, providing console, filesystem, path, environment, process, timer, crypto, and HTTP APIs for reliable local-first JavaScript applications.",
@@ -20,13 +24,13 @@
     "native-modules",
     "local-first",
     "kordex",
-    "softadastra",
+    "kordexjs",
     "vix"
   ],
   "license": "MIT",
-  "name": "kordex-std",
-  "namespace": "softadastra",
-  "repository": "https://github.com/softadastra/kordex-std",
+  "name": "std",
+  "namespace": "kordexjs",
+  "repository": "https://github.com/kordexjs/std",
   "type": "library",
-  "version": "0.2.0"
+  "version": "0.3.0"
 }
